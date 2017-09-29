@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tile()
+comment0.text=\r\n\ Creates\ a\ Tile\ with\ the\ value\ of\ 0\r\n
+comment1.params=n
+comment1.target=Tile(int)
+comment1.text=\r\n\ Creates\ a\ Tile\ with\ a\ specified\ value\r\n\ @param\ int\ value\ of\ tile\r\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\r\n\ Returns\ the\ value\ of\ the\ tile\r\n\ @return\ value,\ value\ of\ tile\r\n
+comment3.params=n
+comment3.target=void\ setValue(int)
+comment3.text=\r\n\ Sets\ the\ value\ of\ the\ tile\ to\ a\ specified\ amount\r\n\ @param\ int\ n,\ the\ new\ value\ of\ the\ tile\r\n
+comment4.params=
+comment4.target=void\ merge()
+comment4.text=\r\n\ Doubles\ the\ value\ of\ the\ tile\r\n
+comment5.params=
+comment5.target=java.awt.Color\ tileColor()
+comment5.text=\r\n\ Method\ returns\ tile\ color\r\n\ @return\ the\ color\ of\ the\ tile\ value\r\n
+comment6.params=
+comment6.target=java.awt.Image\ tileImage()
+comment6.text=\r\n\ Method\ returns\ tile\ image\r\n\ @return\ the\ image\ of\ the\ tile\ value\r\n
+numComments=7
